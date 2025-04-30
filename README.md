@@ -1,7 +1,7 @@
 # Data-scientist-House-prices
 Determine the value of the house based on the buyer's wishes
 
-# Project Title: Data-scientist-House-prices
+---
 
 ## 📌 Overview
 Building a Machine Learning Model to Predict House Prices
