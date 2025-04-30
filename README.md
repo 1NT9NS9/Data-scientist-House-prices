@@ -34,7 +34,7 @@ Dataset description:
 
 ## ⚙️ Project Workflow
 1. Exploratory Data Analysis 
-2. Data Preprocessing (cleaning, feature encoding)
+2. Data Preprocessing
 3. Model Building
 4. Final Model and Conclusion
 
