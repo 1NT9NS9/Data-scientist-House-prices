@@ -208,7 +208,7 @@ variable_importance_metric = "NUM_AS_ROOT"
 variable_importances = inspector.variable_importances()[variable_importance_metric]
 
 # Extract the feature name and importance values.
-#
+
 # `variable_importances` is a list of <feature, importance> tuples.
 feature_names = [vi[0].name for vi in variable_importances]
 feature_importances = [vi[1] for vi in variable_importances]
@@ -219,7 +219,6 @@ bar = plt.barh(feature_ranks, feature_importances, label=[str(x) for x in featur
 plt.yticks(feature_ranks, feature_names)
 plt.gca().invert_yaxis()
 
-# TODO: Replace with "plt.bar_label()" when available.
 # Label each bar with values
 for importance, patch in zip(feature_importances, bar.patches):
   plt.text(patch.get_x() + patch.get_width(), patch.get_y(), f"{importance:.4f}", va="top")
