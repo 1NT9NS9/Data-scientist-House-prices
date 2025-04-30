@@ -1,7 +1,7 @@
 # Data-scientist-House-prices
 Determine the value of the house based on the buyer's wishes
 
-# Project Title: [Data-scientist-House-prices]
+# Project Title: Data-scientist-House-prices
 
 ## 📌 Overview
 Building a Machine Learning Model to Predict House Prices
@@ -18,8 +18,8 @@ What was the goal:
 
 ## 📂 Dataset
 Dataset description:
-- Source: train.csv[https://github.com/1NT9NS9/Data-scientist-House-prices/blob/main/train.csv]
-- Source: test.csv[https://github.com/1NT9NS9/Data-scientist-House-prices/blob/main/test.csv]
+- Source: [train.csv](https://github.com/1NT9NS9/Data-scientist-House-prices/blob/main/train.csv)
+- Source: [test.csv](https://github.com/1NT9NS9/Data-scientist-House-prices/blob/main/test.csv)
 - Number of rows and features: [1461, 81]
 - Target variable: [SalePrice]
 
