@@ -1,5 +1,5 @@
 # Data-scientist-House-prices
-Building a Machine Learning Model to Predict House Prices
+Building a Machine Learning Model to Predict House Prices.
 
 ---
 
@@ -34,6 +34,7 @@ Dataset description:
 - Final Model and Conclusion
  
 ---
+
 
 
 
